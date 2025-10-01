@@ -1,10 +1,10 @@
-proxy-providers:
-  订阅1:
-    url: http://sub.store/download/订阅1?target=Stash
-    interval: 600
-  订阅2:
-    url: http://sub.store/download/订阅2?target=Stash
-    interval: 600
+#proxy-providers:
+#  订阅1:
+#    url: http://sub.store/download/订阅1?target=Stash
+#    interval: 600
+#  订阅2:
+#    url: http://sub.store/download/订阅2?target=Stash
+#    interval: 600
 mode: rule
 dns:
   default-nameserver:
